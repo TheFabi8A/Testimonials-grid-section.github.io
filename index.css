@@ -107,6 +107,7 @@ body {
     display: flex;
     flex-flow: column nowrap;
     gap: 25px;
+    box-shadow: 5px 5px 30px var(--very-dark-grayish-blue);
 }
 
 .card:first-child {
